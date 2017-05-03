@@ -1,9 +1,8 @@
 Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
-Bundle-Name: StrutsClipse Tiles
-Bundle-Vendor: Aleksandr Mashchenko
-Bundle-SymbolicName: com.amashchenko.eclipse.strutsclipse.tiles;singleton:=true
-Bundle-Version: 1.3.1.qualifier
+Bundle-Name: Strutsclipse-tiles
+Bundle-SymbolicName: strutsclipse-tiles;singleton:=true
+Bundle-Version: 1.0.0.qualifier
 Require-Bundle: org.eclipse.ui,
  org.eclipse.core.runtime,
  org.eclipse.core.resources,
@@ -16,5 +15,5 @@ Require-Bundle: org.eclipse.ui,
  org.eclipse.ui.ide,
  org.eclipse.wst.validation,
  com.amashchenko.eclipse.strutsclipse.plugin
-Bundle-RequiredExecutionEnvironment: JavaSE-1.7
 Bundle-ActivationPolicy: lazy
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
